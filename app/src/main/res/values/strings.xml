@@ -7,6 +7,10 @@
     <string name="time">Time</string>
     <string name="accuracy">Accuracy</string>
     <string name="satellite">Satellites</string>
+    <string name="current_g_force">G-Force</string>
+    <string name="min_g_force">Min G-Force</string>
+    <string name="max_g_force">Max G-Force</string>
+    <string name="speed_limit">Speed Limit</string>
 
     <string name="waiting_for_fix">Waiting for GPS fix …</string>
     <string name="gps_disabled">GPS disabled</string>
@@ -33,4 +37,17 @@
     <string name="github" translatable="false">https://github.com/flyingrub/SpeedMeter</string>
     <string name="license_type" translatable="false">GNU General Public License 2</string>
     <string name="doante_url" translatable="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6DE8SFMJKRVK2</string>
+
+    <string name="button_text">Calibrate</string>
+    <string name="txt_default"></string>
+
+    <string name="location_not_enabled">GPS is not enabled</string>
+    <string name="location_permission_not_granted">Location permission is not granted</string>
+    <string name="network_not_enabled">Network is not enabled</string>
+    <string name="enable">Open settings</string>
+
+    <string name="permissions_not_granted">Permissions were not granted.</string>
+    <string name="permission_available_access_fine_location">Access Fine Location Permission has been granted.</string>
+    <string name="permission_access_fine_location_rationale">Access Fine Location permission is needed to get device location through GPS.</string>
+
 </resources>
